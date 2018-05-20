@@ -2,6 +2,7 @@
 C++ implementation of the classic game of life
 
 Rules are as follows
+
 Any live cell with fewer than two live neighbours dies, as if caused by under-population.
 
 Any live cell with two or three live neighbours lives on to the next generation.
