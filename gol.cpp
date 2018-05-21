@@ -1,13 +1,3 @@
-/** 
-Name: <your name>
-Eid: <your id>
-
-Q1: Why are the arrays passed to both print life functions const? <your answer>
-Q2: Why are the arrays passed to both play life functions not const? <your answer>
-Q3: If we did change the arrays passed to play life functions to make them const, 
-    what else would have to happen to make play life work? <your answer>
-*/
-
 #include <iostream>
 
 using namespace std;
